@@ -1,0 +1,2 @@
+# one-robot-path_planning1.0
+该项目基于matlab的GUI编写了单机器人的多任务路径规划系统，模拟WMS仓库系统通过TCP通信发送给机器人系统，机器人系统进行任务分配和路径规划
